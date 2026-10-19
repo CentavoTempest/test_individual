@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 0,
+    "width": 576,
+    "height": 768,
+    "isRotated": false,
+    "originalWidth": 576,
+    "originalHeight": 768
+  },
+  "imagePath": "image-targets/Punto 03_luminance.png",
+  "metadata": null,
+  "name": "Punto 03",
+  "resources": {
+    "originalImage": "Punto 03_original.png",
+    "croppedImage": "Punto 03_cropped.png",
+    "thumbnailImage": "Punto 03_thumbnail.png",
+    "luminanceImage": "Punto 03_luminance.png"
+  },
+  "created": 1792386873735,
+  "updated": 1792386873735
+}
